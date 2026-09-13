@@ -23,15 +23,15 @@
     --tl-fs-h4: 40px;
     --tl-fs-h5: 30px;
     --tl-fs-h6: 20px;
-    --tl-color-common-white: #ffffff;
-    --tl-color-common-black: #000000;
-    --tl-color-heading-primary: #191919;
-    --tl-color-text-body: #4D4D52;
-    --tl-color-theme-primary: #CAA05C;
-    --tl-color-bg-1: #1C1C1D;
-    --tl-color-grey-1: #59585D;
-    --tl-color-grey-2: #9F9FA4;
-    --tl-color-border-1: #E3E3E8
+    --tl-color-common-white: #FFFBF3;
+    --tl-color-common-black: #111111;
+    --tl-color-heading-primary: #4F352F;
+    --tl-color-text-body: #D2C6AE;
+    --tl-color-theme-primary: #D2C6AE;
+    --tl-color-bg-1: #4F352F;
+    --tl-color-grey-1: #9B7D6D;
+    --tl-color-grey-2: #D2C6AE;
+    --tl-color-border-1: #D2C6AE;
 }
 
 * {
@@ -4149,10 +4149,9 @@ ul {
 }
 
 .contact-page-area .request-content .contact-img {
-    height: 420px;
+    height: 378px;
     max-width: 640px;
     width: 100%;
-    margin-top: 45px
 }
 
 .contact-page-area .request-content .contact-img img {
@@ -4237,7 +4236,7 @@ ul {
 }
 
 .service-item .service-top .title {
-    font-size: 30px;
+    font-size: 28px;
     font-weight: 400;
     margin-bottom: 0
 }
@@ -7183,9 +7182,7 @@ ul {
     opacity: .75
 }
 
-.request-wrap {
-    padding-top: 70px
-}
+
 
 .request-content .section-heading {
     margin-bottom: 100px
@@ -11849,7 +11846,7 @@ ul {
 }
 
 .request-wrap {
-    padding-top: 70px
+    padding-top: 10px
 }
 
 .request-content .section-heading {
