@@ -424,7 +424,7 @@ ul {
 }
 
 .section-heading .section-title {
-    font-size: 80px;
+    font-size: 75px;
     line-height: 1.1;
     font-weight: 400;
     display: inline-block;
@@ -6194,7 +6194,6 @@ ul {
     max-width: 840px;
     width: 100%;
     margin-left: 0;
-    margin-top: 120px
 }
 
 @media only screen and (max-width: 992px) {
@@ -14255,7 +14254,7 @@ ul {
 }
 
 .gallary-section-2 .bg-img:before {
-    background-color: var(--tl-color-common-black);
+    background-color: #000000;
     content: "";
     width: 100%;
     height: 100%;
@@ -16659,7 +16658,7 @@ ul {
 }
 
 .side-menu-content .side-menu-contact .side-menu-list li a.mail {
-    font-size: 26px
+    font-size: 17px
 }
 
 @media only screen and (max-width: 992px) {
@@ -17783,7 +17782,7 @@ blockquote .content .author {
 .footer-widget .footer-address .mail {
     font-family: var(--tl-ff-heading);
     color: var(--tl-color-common-white);
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 400;
     position: relative;
     display: inline-block
